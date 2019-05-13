@@ -16,7 +16,7 @@
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
-    "@aergo/athena-webpack-loader": "0.1.0",
+    "@aergo/athena-webpack-loader": "0.1.1",
     "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
